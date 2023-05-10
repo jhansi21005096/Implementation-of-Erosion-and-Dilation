@@ -57,7 +57,7 @@ plt.imshow(image_dilate)
 ## Output:
 
 ### Display the input Image
-![output]()
+![output](https://github.com/jhansi21005096/Implementation-of-Erosion-and-Dilation/blob/main/Screenshot%202023-05-10%20at%201.19.02%20PM.png)
 
 ### Display the Eroded Image
 ![output]()
