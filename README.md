@@ -63,6 +63,6 @@ plt.imshow(image_dilate)
 ![output](https://github.com/jhansi21005096/Implementation-of-Erosion-and-Dilation/blob/main/Screenshot%202023-05-10%20at%201.19.14%20PM.png)
 
 ### Display the Dilated Image
-![output]()
+![output](https://github.com/jhansi21005096/Implementation-of-Erosion-and-Dilation/blob/main/Screenshot%202023-05-10%20at%201.19.23%20PM.png)
 ## Result
 Thus the generated text image is eroded and dilated using python and OpenCV.
